@@ -24,7 +24,7 @@
   <content>
     <workbench>
       <classname>RoadWorkbench</classname>
-      <subdirectory>./</subdirectory>
+      <subdirectory>.</subdirectory>
     </workbench>
   </content>
 
